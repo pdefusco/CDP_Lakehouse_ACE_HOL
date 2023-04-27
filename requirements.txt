@@ -1,2 +1,6 @@
 pandas
+numpy==1.19.0
 boto3
+git+https://github.com/fastforwardlabs/cmlbootstrap#egg=cmlbootstrap
+requests
+urllib3
